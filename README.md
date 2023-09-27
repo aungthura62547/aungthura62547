@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Aung Thura
-- 👀 I’m interested in Networking and Cybersecurity
+- 👋 Hi, I’m Aung Thura.
+- 👀 I’m interested in Networking and Cybersecurity.
 - 🌱 I’m currently learning the Cybersecurity.
 - 📫 How to reach me [...](https://www.linkedin.com/in/aung-thura-019a2869/)
 
